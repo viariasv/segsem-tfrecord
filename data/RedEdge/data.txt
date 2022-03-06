@@ -1,0 +1,5 @@
+The weedmap data can be downloaded with the following URL:
+https://projects.asl.ethz.ch/datasets/doku.php?id=weedmap:remotesensing2018weedmap
+
+Once you have downloaded the tiles dataset, it must be placed in this folder with
+the name raw or modify the arguments when run main.py

@@ -1,0 +1,10 @@
+# Data Folders
+data/RedEdge/output/**/*.record
+data/RedEdge/raw/**/*.png
+
+# C extensions
+*.so
+.DS_Store
+
+# IPython Notebook
+.ipynb_checkpoints
